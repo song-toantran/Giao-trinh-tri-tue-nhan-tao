@@ -1,5 +1,6 @@
 # Giao trinh tri tue nhan tao
 Các code mẫu được sử dụng trong giáo trình
+
 Nội dung mã nguồn được tổ chức bám sát lộ trình học tập từ nền tảng đến ứng dụng thực tế trong điều khiển và tự động hóa:
 
   1. Nền tảng học máy & học sâu: Các thuật toán học máy cơ bản (Hồi quy tuyến tính, Hồi quy Logistic, K-NN, Cây quyết định, Rừng ngẫu nhiên, SVM/SVR, K-Means) cùng các kiến trúc mạng nơ-ron và học sâu phổ biến (ANN, CNN, RNN/LSTM/GRU, Transformer, Autoencoder, GAN, LeNet-5, AlexNet, VGGNet, ResNet, DenseNet, MobileNet, EfficientNet, ViT, ConvNeXt).   
